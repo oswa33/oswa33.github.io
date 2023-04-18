@@ -23,7 +23,12 @@ resume_contact_address:         "10 de Agosto & Cuba"
 resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>Hola soy Manuel, actualmente tengo 22 años de edad, me considero una persona con muchas capacidades, virtudes y defectos, entre los que podría destacar es que soy responsable, sociable, alegre, respetuoso entre otros, y mis defectos que por lo general es que suelo ser muy necio y me gusta trabajar solo, sin embargo siempre estoy dispuesto a escuchar sugerencias y a aceptar mis errores y aprender de ellos ya que son nuestros errores lo que nos hacen humanos.</p>"
+resume_header_intro: "<p>
+A mis 22 años de edad, me encuentro inmerso en mi carrera universitaria, estudiando la Licenciatura en Ciencias Experimentales Informática en la prestigiosa Universidad Nacional de Chimborazo. Desde que inicié mi trayectoria académica, he estado interesado en el mundo de la tecnología y la informática, lo que me llevó a decidirme por esta carrera.
+
+En la universidad, he aprendido una gran cantidad de conceptos y técnicas relacionadas con el desarrollo de software, la programación, la inteligencia artificial, la seguridad informática, entre otros. Además, he tenido la oportunidad de trabajar en proyectos tanto individuales como en equipo, lo que me ha permitido aplicar los conocimientos adquiridos en un entorno real.
+
+A pesar de los retos que se presentan en la carrera, estoy decidido a seguir adelante y convertirme en un profesional exitoso en el campo de la informática. Estoy convencido de que la Licenciatura en Ciencias Experimentales Informática en la Universidad Nacional de Chimborazo me brindará las herramientas y habilidades necesarias para lograrlo.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
