@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Manuel O. Guevara"
-resume_title:                   "VP of Global Communications"
+resume_title:                   "Pedagogía de las Ciencias Experimentales Informática"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "manuel.guevara@unach.edu.ec"
@@ -23,7 +23,7 @@ resume_contact_address:         "10 de Agosto & Cuba"
 resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but keep it brief and concise</p>"
+resume_header_intro: "<p>Hola soy Manuel, actualmente tengo 22 años de edad, me considero una persona con muchas capacidades, virtudes y defectos, entre los que podría destacar es que soy responsable, sociable, alegre, respetuoso entre otros, y mis defectos que por lo general es que suelo ser muy necio y me gusta trabajar solo, sin embargo siempre estoy dispuesto a escuchar sugerencias y a aceptar mis errores y aprender de ellos ya que son nuestros errores lo que nos hacen humanos.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
