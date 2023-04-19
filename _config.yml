@@ -24,12 +24,10 @@ resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334
 display_header_contact_info:    "false"
 
 resume_header_intro: "<p>
-A mis 22 años de edad, me encuentro inmerso en mi carrera universitaria, estudiando la Licenciatura en Ciencias Experimentales Informática en la prestigiosa Universidad Nacional de Chimborazo. Desde que inicié mi trayectoria académica, he estado interesado en el mundo de la tecnología y la informática, lo que me llevó a decidirme por esta carrera.
-
-En la universidad, he aprendido una gran cantidad de conceptos y técnicas relacionadas con el desarrollo de software, la programación, la inteligencia artificial, la seguridad informática, entre otros. Además, he tenido la oportunidad de trabajar en proyectos tanto individuales como en equipo, lo que me ha permitido aplicar los conocimientos adquiridos en un entorno real.
-
-A pesar de los retos que se presentan en la carrera, estoy decidido a seguir adelante y convertirme en un profesional exitoso en el campo de la informática. Estoy convencido de que la Licenciatura en Ciencias Experimentales Informática en la Universidad Nacional de Chimborazo me brindará las herramientas y habilidades necesarias para lograrlo.</p>"
-
+Hola, mi nombre es Manuel y tengo 22 años. 
+Soy una persona con muchas virtudes, entre ellas destaco mi capacidad de trabajo en equipo, mi perseverancia para alcanzar mis metas y mi empatía hacia los demás.
+Me considero una persona proactiva y con una actitud positiva ante los desafíos que se presentan en mi vida.
+En cuanto a mis intereses, me gusta mucho el deporte. Practico regularmente Taekwondo y Fútbol, lo cual me ayuda a mantenerme en forma y a liberar el estrés del día a día. El deporte también me ha enseñado valores como el respeto, la disciplina y la superación personal.
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
 # or remove the resume_looking_for_work option entirely
