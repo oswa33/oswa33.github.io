@@ -24,10 +24,10 @@ resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334
 display_header_contact_info:    "false"
 
 resume_header_intro: "<p>
-Hola, mi nombre es Manuel y tengo 22 años. 
+Hola, mi nombre es Manuel y tengo 22 años. <br>
 Soy una persona con muchas virtudes, entre ellas destaco mi capacidad de trabajo en equipo, mi perseverancia para alcanzar mis metas y mi empatía hacia los demás.
 Me considero una persona proactiva y con una actitud positiva ante los desafíos que se presentan en mi vida.
-En cuanto a mis intereses, me gusta mucho el deporte. Practico regularmente Taekwondo y Fútbol, lo cual me ayuda a mantenerme en forma y a liberar el estrés del día a día. 
+En cuanto a mis intereses, me gusta mucho el deporte. Practico regularmente Taekwondo y Fútbol, lo cual me ayuda a mantenerme en forma y a liberar el estrés del día a día.<br> 
 El deporte también me ha enseñado valores como el respeto, la disciplina y la superación personal. </p>"
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -51,12 +51,12 @@ resume_section_associations:    true
 resume_social_links:
   resume_github_url:            "https://github.com/oswa33"
   resume_twitter_url:           "https://twitter.com/ManuelG79753478?t=Co8zFwiSOLekPTxSBaWWxQ&s=09"
-  resume_dribbble_url:          "https://dribbble.com/jag"
+  #resume_dribbble_url:          "https://dribbble.com/jag"
   resume_facebook_url:          "https://www.facebook.com/oswaldo.guevara.54738?mibextid=ZbWKwL"
-  resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
+ # resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
   resume_instagram_url:         "https://www.instagram.com/manuel_oswaldo00/"
-  resume_website_url:           "http://joelglovier.com"
-  resume_medium_url:            "https://medium.com/@jglovier"
+  #resume_website_url:           "http://joelglovier.com"
+ # resume_medium_url:            "https://medium.com/@jglovier"
 resume_print_social_links:      true
 
 # Design settings
