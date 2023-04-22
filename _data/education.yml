@@ -1,13 +1,15 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
-  awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+- degree: Licenciatura en Pedagogía de las Ciencias Experimentales: Informática
+  uni: Universidad Nacional de Chimborazo
+  year: En curso
+  summary: Actualmente me encuentro cursando el séptimo semestre de Licenciatura en Informática. 
+
+- degree: Titulo de Bachiller en Ciencias
+  uni: Unidad Educativa Chillanes
+  year: 2018
+  summary: En este colegio culminé mis estudios de la Básica Superior y Bachillerato obteniendo mi título.
 
 - degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+  uni: Escuela Fray Vicente Solano
+  year: 2012
+  summary: En el año 2012 culminé la educación hasta la Básica Media.
