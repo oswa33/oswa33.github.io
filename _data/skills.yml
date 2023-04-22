@@ -1,6 +1,7 @@
 # Skills
 # Leadership
-- Skill: Leadership
+
+- skill: Leadership
   description: I can lead in any context, from speaking to the public to coordinating events or groups of people.
 
 # Communication strategy
@@ -8,7 +9,7 @@
   description: I have an easy time getting close to people and engaging in dialogue in the face of a conflict.
 
 # Development and creation of digital content
-- Skill: Development and creation of digital content
+- skill: Development and creation of digital content
   description: Writing, graphic design, web design, front-end web development.
 
 # Sports skills
