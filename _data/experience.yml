@@ -1,0 +1,41 @@
+# Jobs
+# VP of Global Communications
+<<<<<<< HEAD
+- company: Pensionado Olivo Educational Unit
+  position: Internship - Observation
+  duration: may 2022 - jul 2022
+  Summary:
+    During my first internship period, I observed and gained experience while also acting as a computer science teacher, sharing my knowledge with peers and students.     This experience allowed me develop effective communication and teaching skills, and understand the Importance of teamwork.
+
+# Director of Digital Stratgy
+- company: Amelia Gallegos Díaz Educational Unit
+  position: Internship - Execution
+  duration: Dec 2022 - Mar 2023
+  Summary:
+    During my second internship period, my main role was to teacher in the area of computer science. I had the opportunity to share my knowledge with students and 
+    co-workers, developing effective teaching and communication skills. 
+    This experience allowed me to consolidate my understanding of the importance of learning continuous and constant updating in the technology industry.
+=======
+- company: Unidad Educativa Pensionado Olivo
+  position: Pasantías - Observación
+  duration: may 2022 - jul 2022
+  summary: 
+   Durante mi primer periodo de practicas , observé y adquiri experiencia
+   mientras también actuaba como docente en informatica, compartiendo mis
+   conocimientos con compaiieros y estudiantes. Esta experiencia me permitié
+   desarrollar habilidades de comunicacién y enseftanza efectivas, y entender la
+   importancia del trabajo en equipo.	
+
+# Director of Digital Stratgy
+- company: Unidad Educativa Amelia Gallegos Díaz
+  position: Pasantías - Ejecución
+  duration:  dic 2022 - mar 2023
+  summary: 
+   Durante mi segundo periodo de practicas , mi funcién principal fue la de
+   docente en el area de informatica. Tuve la oportunidad de compartir mis
+   conocimientos con estudiantes y compaferos de trabajo , desarrollando
+   habilidades de ensefianza y comunicacién efectivas . Esta experiencia me
+   permitié consolidar mi comprensién de la importancia del aprendizaje
+   continuo y la actualizacién constante en la industria de la tecnologia.
+
+>>>>>>> ec33b44fa48376c8c8ebdd28c91587784a6e3603
