@@ -2,9 +2,9 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 
-# Monograph Learning about Dyscalculia and its impact on students
-#- project: Monograph Learning about Dyscalculia and its impact on students
- # role: Project leader
-  #duration: School Period 2017
-  # url: "#"
-  #description: In my degree I developed the project Learning about Dyscalculia, its impact on students during the third year of high school.
+#Monograph Learning about Dyscalculia and its impact on students
+- project: Monograph Learning about Dyscalculia and its impact on students
+  role: Project leader
+  duration: School Period 2017
+  url: "#"
+  description: In my degree I developed the project Learning about Dyscalculia, its impact on students during the third year of high school.
