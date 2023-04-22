@@ -14,7 +14,7 @@ resume_name:                    "Manuel Oswaldo Guevara Samaniego"
 resume_title:                   "Pedagogy of Experimental Computer Sciences"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "guevaramanuel180@gmail.com"
+resume_contact_email:           "https://drive.google.com/file/d/1lPxH0ba7yLCqctR6aVogOdZPMb16aFZB/view?usp=sharing"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone:       "+593 98 990 6448"
