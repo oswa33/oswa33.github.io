@@ -10,20 +10,26 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Lisa M. Simpson"
-resume_title:                   "VP of Global Communications"
+resume_name:                    "Manuel Oswaldo Guevara Samaniego"
+resume_title:                   "Pedagogy of Experimental Computer Sciences"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "lisasimpson@youremailaddress.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "555-7334"
-resume_contact_address:         "742 Evergreen Terrace, Springfield"
+resume_contact_telephone:       "+593 98 990 6448"
+resume_contact_address:         "August 10 and Cuba"
 
 resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but keep it brief and concise</p>"
+resume_header_intro: "<p>
+Hello, my name is Manuel and I am 22 years old. <br>
+I am a person with many virtues, among them I highlight my ability to work in a team, my perseverance to achieve my goals and my empathy towards others.
+I consider myself a proactive person with a positive attitude towards the challenges that arise in my life.
+As for my interests, I really like sports. I regularly practice Taekwondo and Soccer, which helps me keep fit and release the stress of everyday life.<br>
+Sport has also taught me values such as respect, discipline and self-improvement.
+</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -45,14 +51,14 @@ resume_section_associations:    true
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/jglovier/resume-template"
-  resume_twitter_url:           "http://twitter.com/jglovier"
-  resume_dribbble_url:          "https://dribbble.com/jag"
-  # resume_facebook_url:          "insert Facebook URL here"
-  resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
-  # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "http://joelglovier.com"
-  resume_medium_url:            "https://medium.com/@jglovier"
+  resume_github_url:            "hhttps://github.com/oswa33"
+  resume_twitter_url:           "https://twitter.com/ManuelG79753478?t=Co8zFwiSOLekPTxSBaWWxQ&s=09"
+#  resume_dribbble_url:          "https://dribbble.com/jag"
+  resume_facebook_url:          "https://www.facebook.com/oswaldo.guevara.54738?mibextid=ZbWKwL"
+#  resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
+  resume_instagram_url:         "https://www.instagram.com/manuel_oswaldo00/"
+#  resume_website_url:           "http://joelglovier.com"
+#  resume_medium_url:            "https://medium.com/@jglovier"
 resume_print_social_links:      true
 
 # Design settings
