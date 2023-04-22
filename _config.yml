@@ -1,5 +1,5 @@
 # Site settings
-title: "Jekyll Resume Template"
+title: "Perfil Profesional"
 description: "A resume template for Jekyll and GitHub Pages sites."
 
 # Build settings
@@ -14,7 +14,7 @@ resume_name:                    "Manuel Oswaldo Guevara Samaniego"
 resume_title:                   "Pedagogy of Experimental Computer Sciences"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "lisasimpson@youremailaddress.com"
+resume_contact_email:           "guevaramanuel180@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone:       "+593 98 990 6448"
