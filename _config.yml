@@ -23,7 +23,7 @@ resume_contact_address:         "10 de Agosto & Cuba"
 resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>
+resume_header_intro: "<p class="text-align-justify>
 Hola, mi nombre es Manuel y tengo 22 años. <br>
 Soy una persona con muchas virtudes, entre ellas destaco mi capacidad de trabajo en equipo, mi perseverancia para alcanzar mis metas y mi empatía hacia los demás.
 Me considero una persona proactiva y con una actitud positiva ante los desafíos que se presentan en mi vida.
