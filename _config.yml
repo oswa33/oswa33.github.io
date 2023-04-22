@@ -23,11 +23,15 @@ resume_contact_address:         "August 10 and Cuba"
 resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>Hello, my name is Manuel and I am 22 years old. <br>
+resume_header_intro: 
+"<p>
+Hello, my name is Manuel and I am 22 years old. <br>
 I am a person with many virtues, among them I highlight my ability to work in a team, my perseverance to achieve my goals and my empathy towards others.
 I consider myself a proactive person with a positive attitude towards the challenges that arise in my life.
 As for my interests, I really like sports. I regularly practice Taekwondo and Soccer, which helps me keep fit and release the stress of everyday life.<br>
-Sport has also taught me values such as respect, discipline and self-improvement. </p>"
+Sport has also taught me values such as respect, discipline and self-improvement. 
+
+</p>"
 
 
 # use "yes" to display the email contact button,
@@ -43,9 +47,9 @@ resume_section_education:       true
 resume_section_projects:        true
 resume_section_skills:          true
 resume_section_recognition:     true
-resume_section_links:           false
-resume_section_associations:    false
-# resume_section_interests:     false
+resume_section_links:           true
+resume_section_associations:    true
+# resume_section_interests:     true
 
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
